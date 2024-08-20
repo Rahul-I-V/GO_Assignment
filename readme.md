@@ -47,13 +47,3 @@ C:\Users\ADMIN>curl -X GET http://localhost:8080/students/7 -H "Authorization: T
 
 So any valid token can be used to get the students details. Only the authentication of token is done, but no userType is deduced to restrict any get requests.
 
-This is the DB Schema used to store student details:
-user_id	int	NO	PRI		auto_increment
-password	varchar(150)	YES			
-name	varchar(100)	NO			
-course	varchar(100)	YES			
-grade	varchar(10)	YES			
-created_by	varchar(50)	YES			
-created_on	timestamp	YES		CURRENT_TIMESTAMP	DEFAULT_GENERATED
-updated_by	varchar(50)	YES			
-updated_on	timestamp	YES		CURRENT_TIMESTAMP	DEFAULT_GENERATED on update CURRENT_TIMESTAMP
