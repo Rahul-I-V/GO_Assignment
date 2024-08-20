@@ -1,0 +1,263 @@
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-17T18:34:07+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-17T18:34:07+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-17T18:34:07+05:30"}
+{"Method":"DELETE","Path":"/students/5","level":"info","msg":"handled request","time":"2024-08-17T18:34:21+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-17T18:34:21+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 5","time":"2024-08-17T18:34:21+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 5","time":"2024-08-17T18:34:21+05:30"}
+{"Method":"DELETE","Path":"/students/6","level":"info","msg":"handled request","time":"2024-08-17T18:34:40+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-17T18:34:40+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 6","time":"2024-08-17T18:34:40+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 6","time":"2024-08-17T18:34:40+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-17T18:35:27+05:30"}
+{"level":"error","msg":"User type not found in context","time":"2024-08-17T18:35:27+05:30"}
+{"level":"error","msg":"Failed to insert student with user ID: 0, Error: context Error","time":"2024-08-17T18:35:27+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-17T18:37:22+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-17T18:37:22+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-17T18:37:22+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-17T18:37:38+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 6","time":"2024-08-17T18:37:38+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 6","time":"2024-08-17T18:37:38+05:30"}
+{"Method":"DELETE","Path":"/students/6","level":"info","msg":"handled request","time":"2024-08-17T18:38:10+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 6","time":"2024-08-17T18:38:10+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 6","time":"2024-08-17T18:38:10+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 6","time":"2024-08-17T18:38:10+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-17T18:38:59+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-17T18:38:59+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-17T18:38:59+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-17T18:39:11+05:30"}
+{"level":"error","msg":"User type not found in context","time":"2024-08-17T18:39:11+05:30"}
+{"level":"error","msg":"Failed to insert student with user ID: 0, Error: context Error","time":"2024-08-17T18:39:11+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-17T18:59:46+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-17T18:59:46+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-17T18:59:46+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-17T18:59:57+05:30"}
+{"level":"error","msg":"User type not found in context","time":"2024-08-17T18:59:57+05:30"}
+{"level":"error","msg":"Failed to insert student with user ID: 0, Error: context Error","time":"2024-08-17T18:59:57+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-17T19:19:19+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-17T19:19:19+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-17T19:19:19+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-17T19:19:31+05:30"}
+{"level":"error","msg":"","time":"2024-08-17T19:19:31+05:30"}
+{"level":"error","msg":"User type not found in context","time":"2024-08-17T19:19:31+05:30"}
+{"level":"error","msg":"Failed to insert student with user ID: 0, Error: context Error","time":"2024-08-17T19:19:31+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-17T19:20:28+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-17T19:20:28+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-17T19:20:28+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-17T19:20:35+05:30"}
+{"level":"error","msg":"UserType value","time":"2024-08-17T19:20:35+05:30"}
+{"level":"error","msg":"User type not found in context","time":"2024-08-17T19:20:35+05:30"}
+{"level":"error","msg":"Failed to insert student with user ID: 0, Error: context Error","time":"2024-08-17T19:20:35+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-17T19:27:17+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-17T19:27:17+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-17T19:27:17+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-17T19:27:25+05:30"}
+{"level":"error","msg":"UserType value","time":"2024-08-17T19:27:25+05:30"}
+{"level":"error","msg":"User type not found in context","time":"2024-08-17T19:27:25+05:30"}
+{"level":"error","msg":"Failed to insert student with user ID: 0, Error: context Error","time":"2024-08-17T19:27:25+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-17T19:30:59+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-17T19:30:59+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-17T19:30:59+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-17T19:31:09+05:30"}
+{"level":"error","msg":"User type from context in service layer\u003cnil\u003e","time":"2024-08-17T19:31:09+05:30"}
+{"level":"error","msg":"UserType value","time":"2024-08-17T19:31:09+05:30"}
+{"level":"error","msg":"User type not found in context","time":"2024-08-17T19:31:09+05:30"}
+{"level":"error","msg":"Failed to insert student with user ID: 0, Error: context Error","time":"2024-08-17T19:31:09+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-17T19:38:02+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-17T19:38:02+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-17T19:38:02+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-17T19:38:10+05:30"}
+{"level":"error","msg":"User type from context in service layeruser","time":"2024-08-17T19:38:10+05:30"}
+{"level":"error","msg":"UserType valueuser","time":"2024-08-17T19:38:10+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 7","time":"2024-08-17T19:38:10+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 7","time":"2024-08-17T19:38:10+05:30"}
+{"Method":"PUT","Path":"/students/3","level":"info","msg":"handled request","time":"2024-08-17T19:40:00+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 7","time":"2024-08-17T19:40:00+05:30"}
+{"Method":"PUT","Path":"/students/7","level":"info","msg":"handled request","time":"2024-08-17T19:40:24+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 7","time":"2024-08-17T19:40:24+05:30"}
+{"level":"info","msg":"Successfully updated student with user ID: 7","time":"2024-08-17T19:40:24+05:30"}
+{"level":"info","msg":"Successfully updated student with user ID: 7","time":"2024-08-17T19:40:24+05:30"}
+{"Method":"PUT","Path":"/students/3","level":"info","msg":"handled request","time":"2024-08-17T19:41:38+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-17T19:41:38+05:30"}
+{"level":"info","msg":"Successfully updated student with user ID: 3","time":"2024-08-17T19:41:38+05:30"}
+{"level":"info","msg":"Successfully updated student with user ID: 3","time":"2024-08-17T19:41:38+05:30"}
+{"Method":"PUT","Path":"/students/7","level":"info","msg":"handled request","time":"2024-08-17T19:43:00+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-17T19:43:00+05:30"}
+{"level":"info","msg":"Successfully updated student with user ID: 7","time":"2024-08-17T19:43:00+05:30"}
+{"level":"info","msg":"Successfully updated student with user ID: 7","time":"2024-08-17T19:43:00+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-18T21:51:20+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-18T21:51:20+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-18T21:51:20+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-18T21:51:35+05:30"}
+{"level":"error","msg":"User type from context in service layeruser","time":"2024-08-18T21:51:35+05:30"}
+{"level":"error","msg":"UserType valueuser","time":"2024-08-18T21:51:35+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 8","time":"2024-08-18T21:51:35+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 8","time":"2024-08-18T21:51:35+05:30"}
+{"level":"error","msg":"JWT_SECRET is not set in the environment variables","time":"2024-08-18T21:51:35+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-18T22:00:31+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-18T22:00:31+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-18T22:00:31+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-18T22:00:40+05:30"}
+{"level":"error","msg":"User type from context in service layeruser","time":"2024-08-18T22:00:40+05:30"}
+{"level":"error","msg":"UserType valueuser","time":"2024-08-18T22:00:40+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 9","time":"2024-08-18T22:00:40+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 9","time":"2024-08-18T22:00:40+05:30"}
+{"Method":"DELETE","Path":"/students/9","level":"info","msg":"handled request","time":"2024-08-18T22:01:20+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 6","time":"2024-08-18T22:01:20+05:30"}
+{"Method":"DELETE","Path":"/students/9","level":"info","msg":"handled request","time":"2024-08-18T22:01:32+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 9","time":"2024-08-18T22:01:32+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 9","time":"2024-08-18T22:01:32+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 9","time":"2024-08-18T22:01:32+05:30"}
+{"Method":"DELETE","Path":"/students/8","level":"info","msg":"handled request","time":"2024-08-18T22:01:52+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-18T22:01:52+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 8","time":"2024-08-18T22:01:52+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 8","time":"2024-08-18T22:01:52+05:30"}
+{"Method":"DELETE","Path":"/students/8","level":"info","msg":"handled request","time":"2024-08-18T22:02:01+05:30"}
+{"level":"error","msg":"Failed to parse JWT token: token contains an invalid number of segments","time":"2024-08-18T22:02:01+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-18T22:03:22+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-18T22:03:22+05:30"}
+{"level":"error","msg":"Database connection failed: Error 1049 (42000): Unknown database 'students'","time":"2024-08-18T22:03:22+05:30"}
+{"level":"error","msg":"failed to setup connection to the database","time":"2024-08-18T22:03:22+05:30"}
+{"level":"error","msg":"could not connect to the database: Error 1049 (42000): Unknown database 'students'","time":"2024-08-18T22:03:22+05:30"}
+{"level":"fatal","msg":"Error starting up our REST API","time":"2024-08-18T22:03:22+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-18T22:04:40+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-18T22:04:40+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-18T22:04:40+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-18T22:06:28+05:30"}
+{"level":"error","msg":"User type from context in service layeruser","time":"2024-08-18T22:06:28+05:30"}
+{"level":"error","msg":"UserType valueuser","time":"2024-08-18T22:06:28+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 10","time":"2024-08-18T22:06:28+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 10","time":"2024-08-18T22:06:28+05:30"}
+{"Method":"PUT","Path":"/students/10","level":"info","msg":"handled request","time":"2024-08-18T22:07:44+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 10","time":"2024-08-18T22:07:44+05:30"}
+{"level":"info","msg":"Successfully updated student with user ID: 10","time":"2024-08-18T22:07:44+05:30"}
+{"level":"info","msg":"Successfully updated student with user ID: 10","time":"2024-08-18T22:07:44+05:30"}
+{"Method":"PUT","Path":"/students/10","level":"info","msg":"handled request","time":"2024-08-18T22:08:17+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-18T22:08:17+05:30"}
+{"level":"info","msg":"Successfully updated student with user ID: 10","time":"2024-08-18T22:08:17+05:30"}
+{"level":"info","msg":"Successfully updated student with user ID: 10","time":"2024-08-18T22:08:17+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-18T22:11:31+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-18T22:11:31+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-18T22:11:31+05:30"}
+{"Method":"DELETE","Path":"/students/11","level":"info","msg":"handled request","time":"2024-08-18T22:12:30+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-18T22:12:30+05:30"}
+{"level":"warning","msg":"Attempted to delete student with user ID: 11, but no such student exists","time":"2024-08-18T22:12:30+05:30"}
+{"level":"error","msg":"Failed to delete student with user ID: 11, Error: student with user ID 11 does not exist","time":"2024-08-18T22:12:30+05:30"}
+{"Method":"DELETE","Path":"/students/10","level":"info","msg":"handled request","time":"2024-08-18T22:12:40+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-18T22:12:40+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 10","time":"2024-08-18T22:12:40+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 10","time":"2024-08-18T22:12:40+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-18T22:14:06+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-18T22:14:06+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-18T22:14:06+05:30"}
+{"Method":"PUT","Path":"/students/10","level":"info","msg":"handled request","time":"2024-08-18T22:14:25+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-18T22:14:25+05:30"}
+{"level":"warning","msg":"Attempted to update student with user ID: 10, but no such student exists","time":"2024-08-18T22:14:25+05:30"}
+{"level":"error","msg":"Failed to update student with user ID: 10, Error: student with user ID 10 does not exist","time":"2024-08-18T22:14:25+05:30"}
+{"Method":"PUT","Path":"/students/7","level":"info","msg":"handled request","time":"2024-08-18T22:14:34+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-18T22:14:34+05:30"}
+{"level":"info","msg":"Successfully updated student with user ID: 7","time":"2024-08-18T22:14:35+05:30"}
+{"level":"info","msg":"Successfully updated student with user ID: 7","time":"2024-08-18T22:14:35+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-19T12:28:47+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-19T12:28:47+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-19T12:28:47+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-19T12:31:05+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-19T12:31:33+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-19T12:32:06+05:30"}
+{"level":"error","msg":"User type from context in service layeruser","time":"2024-08-19T12:32:06+05:30"}
+{"level":"error","msg":"UserType valueuser","time":"2024-08-19T12:32:06+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 11","time":"2024-08-19T12:32:06+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 11","time":"2024-08-19T12:32:06+05:30"}
+{"Method":"PUT","Path":"/students/11","level":"info","msg":"handled request","time":"2024-08-19T12:33:53+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 10","time":"2024-08-19T12:33:53+05:30"}
+{"Method":"PUT","Path":"/students/11","level":"info","msg":"handled request","time":"2024-08-19T12:34:19+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 11","time":"2024-08-19T12:34:19+05:30"}
+{"level":"info","msg":"Successfully updated student with user ID: 11","time":"2024-08-19T12:34:19+05:30"}
+{"level":"info","msg":"Successfully updated student with user ID: 11","time":"2024-08-19T12:34:19+05:30"}
+{"Method":"DELETE","Path":"/students/11","level":"info","msg":"handled request","time":"2024-08-19T12:35:12+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 10","time":"2024-08-19T12:35:12+05:30"}
+{"Method":"DELETE","Path":"/students/11","level":"info","msg":"handled request","time":"2024-08-19T12:35:24+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-19T12:35:24+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 11","time":"2024-08-19T12:35:24+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 11","time":"2024-08-19T12:35:24+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-20T11:26:05+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-20T11:26:05+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-20T11:26:05+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-20T11:26:34+05:30"}
+{"level":"error","msg":"User type from context in service layeruser","time":"2024-08-20T11:26:34+05:30"}
+{"level":"error","msg":"UserType valueuser","time":"2024-08-20T11:26:34+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 12","time":"2024-08-20T11:26:34+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 12","time":"2024-08-20T11:26:34+05:30"}
+{"Method":"DELETE","Path":"/students/12","level":"info","msg":"handled request","time":"2024-08-20T11:27:12+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 10","time":"2024-08-20T11:27:12+05:30"}
+{"Method":"DELETE","Path":"/students/12","level":"info","msg":"handled request","time":"2024-08-20T11:27:40+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-20T11:27:40+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 12","time":"2024-08-20T11:27:40+05:30"}
+{"level":"info","msg":"Successfully deleted student with user ID: 12","time":"2024-08-20T11:27:40+05:30"}
+{"Method":"DELETE","Path":"/students/12","level":"info","msg":"handled request","time":"2024-08-20T11:27:50+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-20T11:27:50+05:30"}
+{"level":"warning","msg":"Attempted to delete student with user ID: 12, but no such student exists","time":"2024-08-20T11:27:50+05:30"}
+{"level":"error","msg":"Failed to delete student with user ID: 12, Error: student with user ID 12 does not exist","time":"2024-08-20T11:27:50+05:30"}
+{"Method":"GET","Path":"/students","level":"info","msg":"handled request","time":"2024-08-20T11:32:42+05:30"}
+{"level":"error","msg":"Failed to parse JWT token: illegal base64 data at input byte 5","time":"2024-08-20T11:32:42+05:30"}
+{"Method":"GET","Path":"/students","level":"info","msg":"handled request","time":"2024-08-20T11:33:27+05:30"}
+{"Method":"GET","Path":"/students","level":"info","msg":"handled request","time":"2024-08-20T11:34:54+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-20T11:34:54+05:30"}
+{"Method":"GET","Path":"/students","level":"info","msg":"handled request","time":"2024-08-20T11:35:00+05:30"}
+{"level":"error","msg":"Failed to parse JWT token: signature is invalid","time":"2024-08-20T11:35:00+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-20T11:35:10+05:30"}
+{"level":"error","msg":"User type from context in service layeruser","time":"2024-08-20T11:35:10+05:30"}
+{"level":"error","msg":"UserType valueuser","time":"2024-08-20T11:35:10+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 13","time":"2024-08-20T11:35:10+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 13","time":"2024-08-20T11:35:10+05:30"}
+{"Method":"GET","Path":"/students","level":"info","msg":"handled request","time":"2024-08-20T11:35:33+05:30"}
+{"level":"error","msg":"Failed to parse JWT token: illegal base64 data at input byte 5","time":"2024-08-20T11:35:33+05:30"}
+{"Method":"GET","Path":"/students/13","level":"info","msg":"handled request","time":"2024-08-20T11:35:51+05:30"}
+{"level":"error","msg":"Failed to parse JWT token: illegal base64 data at input byte 5","time":"2024-08-20T11:35:51+05:30"}
+{"Method":"GET","Path":"/students/13","level":"info","msg":"handled request","time":"2024-08-20T11:36:25+05:30"}
+{"level":"error","msg":"Failed to parse JWT token: illegal base64 data at input byte 5","time":"2024-08-20T11:36:25+05:30"}
+{"Method":"GET","Path":"/students/13","level":"info","msg":"handled request","time":"2024-08-20T11:36:26+05:30"}
+{"level":"error","msg":"Failed to parse JWT token: illegal base64 data at input byte 5","time":"2024-08-20T11:36:26+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-20T11:37:53+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-20T11:37:53+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-20T11:37:53+05:30"}
+{"Method":"GET","Path":"/students/13","level":"info","msg":"handled request","time":"2024-08-20T11:38:20+05:30"}
+{"level":"error","msg":"Failed to parse JWT token: illegal base64 data at input byte 5","time":"2024-08-20T11:38:20+05:30"}
+{"Method":"GET","Path":"/students","level":"info","msg":"handled request","time":"2024-08-20T11:38:33+05:30"}
+{"level":"error","msg":"Failed to parse JWT token: illegal base64 data at input byte 5","time":"2024-08-20T11:38:33+05:30"}
+{"Method":"GET","Path":"/students","level":"info","msg":"handled request","time":"2024-08-20T11:38:48+05:30"}
+{"level":"error","msg":"Failed to parse JWT token: illegal base64 data at input byte 5","time":"2024-08-20T11:38:48+05:30"}
+{"Method":"GET","Path":"/students","level":"info","msg":"handled request","time":"2024-08-20T11:39:23+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-20T11:39:23+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-20T11:41:33+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-20T11:41:33+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-20T11:41:33+05:30"}
+{"Method":"GET","Path":"/students","level":"info","msg":"handled request","time":"2024-08-20T11:41:41+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-20T11:41:41+05:30"}
+{"Method":"GET","Path":"/students/13","level":"info","msg":"handled request","time":"2024-08-20T11:41:55+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-20T11:41:55+05:30"}
+{"level":"info","msg":"Successfully retrieved student with user ID: 13","time":"2024-08-20T11:41:55+05:30"}
+{"level":"info","msg":"Successfully retrieved student with user ID: 13","time":"2024-08-20T11:41:55+05:30"}
+{"Method":"GET","Path":"/students/13","level":"info","msg":"handled request","time":"2024-08-20T11:42:10+05:30"}
+{"level":"error","msg":"Failed to parse JWT token: invalid character 'M' in numeric literal","time":"2024-08-20T11:42:10+05:30"}
+{"Method":"GET","Path":"/students/13","level":"info","msg":"handled request","time":"2024-08-20T11:42:14+05:30"}
+{"level":"info","msg":"Admin token matched","time":"2024-08-20T11:42:14+05:30"}
+{"level":"info","msg":"Successfully retrieved student with user ID: 13","time":"2024-08-20T11:42:14+05:30"}
+{"level":"info","msg":"Successfully retrieved student with user ID: 13","time":"2024-08-20T11:42:14+05:30"}
+{"Method":"POST","Path":"/register","level":"info","msg":"handled request","time":"2024-08-20T11:42:30+05:30"}
+{"level":"error","msg":"User type from context in service layeruser","time":"2024-08-20T11:42:30+05:30"}
+{"level":"error","msg":"UserType valueuser","time":"2024-08-20T11:42:30+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 14","time":"2024-08-20T11:42:30+05:30"}
+{"level":"info","msg":"Successfully added new student with user ID: 14","time":"2024-08-20T11:42:30+05:30"}
+{"Method":"GET","Path":"/students/13","level":"info","msg":"handled request","time":"2024-08-20T11:42:45+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 14","time":"2024-08-20T11:42:45+05:30"}
+{"level":"info","msg":"Successfully retrieved student with user ID: 13","time":"2024-08-20T11:42:45+05:30"}
+{"level":"info","msg":"Successfully retrieved student with user ID: 13","time":"2024-08-20T11:42:45+05:30"}
+{"Method":"GET","Path":"/students/13","level":"info","msg":"handled request","time":"2024-08-20T11:42:50+05:30"}
+{"level":"error","msg":"Failed to parse JWT token: signature is invalid","time":"2024-08-20T11:42:50+05:30"}
+{"Method":"GET","Path":"/students","level":"info","msg":"handled request","time":"2024-08-20T11:43:02+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 14","time":"2024-08-20T11:43:02+05:30"}
+{"Method":"GET","Path":"/students/7","level":"info","msg":"handled request","time":"2024-08-20T11:43:16+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 14","time":"2024-08-20T11:43:16+05:30"}
+{"level":"info","msg":"Successfully retrieved student with user ID: 7","time":"2024-08-20T11:43:16+05:30"}
+{"level":"info","msg":"Successfully retrieved student with user ID: 7","time":"2024-08-20T11:43:16+05:30"}
