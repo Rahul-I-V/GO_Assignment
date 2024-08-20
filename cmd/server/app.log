@@ -261,3 +261,12 @@
 {"level":"info","msg":"User token authenticated, UserID: 14","time":"2024-08-20T11:43:16+05:30"}
 {"level":"info","msg":"Successfully retrieved student with user ID: 7","time":"2024-08-20T11:43:16+05:30"}
 {"level":"info","msg":"Successfully retrieved student with user ID: 7","time":"2024-08-20T11:43:16+05:30"}
+{"level":"info","msg":"Setting Up Our APP","time":"2024-08-20T11:45:32+05:30"}
+{"level":"info","msg":"Establishing new database connection","time":"2024-08-20T11:45:32+05:30"}
+{"level":"info","msg":"Starting server on :8080","time":"2024-08-20T11:45:32+05:30"}
+{"Method":"GET","Path":"/students/7","level":"info","msg":"handled request","time":"2024-08-20T11:45:40+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 14","time":"2024-08-20T11:45:40+05:30"}
+{"level":"info","msg":"Successfully retrieved student with user ID: 7","time":"2024-08-20T11:45:40+05:30"}
+{"level":"info","msg":"Successfully retrieved student with user ID: 7","time":"2024-08-20T11:45:40+05:30"}
+{"Method":"GET","Path":"/students","level":"info","msg":"handled request","time":"2024-08-20T11:45:51+05:30"}
+{"level":"info","msg":"User token authenticated, UserID: 14","time":"2024-08-20T11:45:51+05:30"}
